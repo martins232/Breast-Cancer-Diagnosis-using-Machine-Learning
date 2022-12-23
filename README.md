@@ -1,6 +1,6 @@
 # Breast-Cancer-Diagnosis-using-Machine-Learning
 # Introduction
-Breast cancer is one of the most common types of cancer in women, and early detection is crucial for improving survival rates. In this project, we aim to develop a machine learning model that can classify breast masses as benign (non-cancerous) or malignant (cancerous) based on features extracted from digital images.
+Breast cancer is one of the most common types of cancer in women, and early detection is crucial for improving survival rates. In this project, The aim is to develop a machine learning model that can classify breast masses as benign (non-cancerous) or malignant (cancerous) based on features extracted from digital images.
 
 # Dataset
 The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dataset, which is available on Kaggle (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data). The dataset consists of 569 samples and 30 features, and the target variable is a binary classification of the diagnosis (M = malignant, B = benign). The features in the dataset include measurements of the size and shape of the mass, as well as various texture and perimeter measurements.
