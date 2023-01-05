@@ -17,7 +17,7 @@ Model selection: I selected the model with the best performance on the training 
 Model evaluation: I then evaluated the performance of the final model using various evaluation metrics, such as accuracy, precision, and recall.
 
 # Results
-After training and evaluating several models, we found that the Decision Tree classifier achieved the best performance on the test set, with an F1 score of [0.967]. I also found that the model had a high precision and recall for both classes (benign and malignant).
+After training and evaluating several models, the Decision Tree classifier achieved the best performance on the test set, with an F1 score of [0.967]. I also found that the model had a high precision and recall for both classes (benign and malignant).
 
 Conclusion
 In this project, I developed a machine learning model for the task of breast cancer diagnosis based on digital image features. The model achieved high performance on the test set and has the potential to be used as a tool for assisting in the early detection of breast cancer.
